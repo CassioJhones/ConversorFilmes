@@ -102,7 +102,7 @@ def converter_para_tv_samsung(diretorio_filmes):
             except subprocess.CalledProcessError:
                 print(f"\n❌ Erro ao converter o arquivo: {arquivo}\n")
 
-pasta_dos_filmes = r"C:\Users\Sala\Downloads\Downloads Cassio\TORRENT\Spider-Noir"
+pasta_dos_filmes = r"C:\Users..."
 converter_para_tv_samsung(pasta_dos_filmes)
 
 print("\n==============================================================")
